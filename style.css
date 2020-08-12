@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 40px;
+    background-color: lightgray;
+}
+.single-gallery{
+    display: flex;
+    float: left;
+    margin: 20px;
+}
+h4{
+    font-weight: 800;
+    text-align: center;
+    font-size: larger;
+}
+.single-gallery a img{
+    height: 300px;
+    width: 400px;
+}
